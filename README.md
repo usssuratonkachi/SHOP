@@ -1,5 +1,5 @@
 # shop
-![Image alt](https://github.com/usssuratonkachi/SHOP/blob/main/1.jpg)  ![Image alt](https://github.com/usssuratonkachi/SHOP/blob/main/2.jpg)  ![Image alt](https://github.com/usssuratonkachi/SHOP/blob/main/3.jpg)
+![Image alt](https://github.com/usssuratonkachi/SHOP/blob/master/screenshots/1.jpg)  ![Image alt](https://github.com/usssuratonkachi/SHOP/blob/master/screenshots/2.jpg)  ![Image alt](https://github.com/usssuratonkachi/SHOP/blob/master/screenshots/3.jpg)
 
 
 
