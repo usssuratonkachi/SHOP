@@ -1,9 +1,9 @@
 # shop
-sign in page
+sign in page                 catalog page
 
 ![Image alt](https://github.com/usssuratonkachi/SHOP/blob/master/screenshots/1.jpg)  
-catalog page
 ![Image alt](https://github.com/usssuratonkachi/SHOP/blob/master/screenshots/2.jpg)  
+
 categories menu 
 ![Image alt](https://github.com/usssuratonkachi/SHOP/blob/master/screenshots/3.jpg)  ![Image alt](https://github.com/usssuratonkachi/SHOP/blob/master/screenshots/4.jpg)  ![Image alt](https://github.com/usssuratonkachi/SHOP/blob/master/screenshots/5.jpg)  ![Image alt](https://github.com/usssuratonkachi/SHOP/blob/master/screenshots/6.jpg)  ![Image alt](https://github.com/usssuratonkachi/SHOP/blob/master/screenshots/7.jpg)
 
